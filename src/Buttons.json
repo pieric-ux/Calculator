@@ -1,0 +1,75 @@
+{
+  "buttons":
+    [
+      {
+        "name": "clear",
+        "value": "AC",
+        "class": "jumbo"
+      },
+      {
+        "name": "divide",
+        "value": "/"
+      },
+      {
+        "name": "multiply",
+        "value": "*"
+      },
+      {
+        "name": "seven",
+        "value": 7
+      },
+      {
+        "name": "eight",
+        "value": 8
+      },
+      {
+        "name": "nine",
+        "value": 9
+      },
+      {
+        "name": "subtract",
+        "value": "-"
+      },
+      {
+        "name": "four",
+        "value": 4
+      },
+      {
+        "name": "five",
+        "value": 5
+      },
+      {
+        "name": "six",
+        "value": 6
+      },
+      {
+        "name": "add",
+        "value": "+"
+      },
+      {
+        "name": "one",
+        "value": 1
+      },
+      {
+        "name": "two",
+        "value": 2
+      },
+      {
+        "name": "three",
+        "value": 3
+      },
+      {
+        "name": "zero",
+        "value": 0,
+        "class": "jumbo"
+      },
+      {
+        "name": "decimal",
+        "value": "."
+      },
+      {
+        "name": "equals",
+        "value": "="
+      }
+    ]
+}
